@@ -7,7 +7,6 @@ Review given code and reverse engineer it to provide a breakdown of what the app
 
 # Table of Contents
   * [User Story](#User-Story)
-  * [Deployed App](#Deployed-App)
   * [Installation](#Installation)
   * [Usage](#Usage)
   * [Contributing](#Contributing)
